@@ -44,7 +44,7 @@ if (getRNMinorVersion() >= 75) {
   }
 }
 
-rootProject.name = 'reactnativeprojectqrcode'
+rootProject.name = 'react-native-project-qr-code'
 
 dependencyResolutionManagement {
   versionCatalogs {

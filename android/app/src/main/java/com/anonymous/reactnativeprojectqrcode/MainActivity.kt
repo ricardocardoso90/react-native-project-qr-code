@@ -1,4 +1,4 @@
-package com.reactnativeprojectqrcode
+package com.anonymous.reactnativeprojectqrcode
 
 import android.os.Build
 import android.os.Bundle
